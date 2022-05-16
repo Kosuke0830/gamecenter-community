@@ -32,4 +32,3 @@
 - IDE：Cloud9
 
 ## 使用素材
-- KONAMI社製アーケードゲームの撮影画像(利用規約第16条に則った利用：https://p.eagate.573.jp/rules/index.html?region=JP)
